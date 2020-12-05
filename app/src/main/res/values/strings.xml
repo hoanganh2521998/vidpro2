@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VidPro2</string>
+    <string name="app_tittle">VIDPRO</string>
+    <string name="tittle_test">categories test</string>
+    <string name="tittle_test2">video test</string>
+    <string name="tittle_play">Playing</string>
+    <string name="tittle_list1">Có thể bạn cũng muốn xem</string>
+    <string name="tittle_list2">Date Created:</string>
+</resources>
